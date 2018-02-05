@@ -1,0 +1,51 @@
+body{
+  font: 15px;
+  background-color:	#A9A9A9;}
+.container{
+width 80;
+margin:auto;
+overflow: hidden;
+background-color:	#E9967A;
+padding:25;}
+ul{
+margin:25;
+padding:50;
+background-color:		#FFD700;}
+header{
+color:	#F0E68C;
+min-height:70px;
+border-bottom:3px;
+}
+header li{
+float:li;
+display:inline;
+background-color:	#7CFC00	;}
+header nav{
+float:left;
+margin-top:35%}
+header.highlight.header.current a{
+color:	#C71585;
+font-weight: bold;}
+header a:hoover{
+color:#250A05
+font-weight:bold;
+}
+#showcase{
+min-height:100px;
+background-color: #46AD18;}
+
+#newsletter{
+color: #ffffff;
+background-color:#46AD18
+padding:43px;
+height:50px;
+width:53px;
+}
+#footer{
+color: #ffffff;
+background-color:#46AD18
+padding:543px;
+height:950px;
+width:653px;
+text-allign: right;
+}
